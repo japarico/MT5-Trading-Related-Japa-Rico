@@ -1,5 +1,3 @@
-Here is the English translation of the text:
-
 This Template is based on the PVSRA template by Mr. Fisher755 and Mr. Trader at Home.
 
 I put together a few free indicators that produce a similar result for MT5.
